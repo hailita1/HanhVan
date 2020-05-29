@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BTL</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_places">PlacesActivity</string>
+    <string name="no_data_avaliable">No Data Avaliable</string>
+    <string name="loading">Loading</string>
+    <string name="title_activity_place_detail">PlaceDetailActivity</string>
+    <string name="show_all_on_map">Show All On Map</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="do_you_want_delete_place">Do you want delete place?</string>
+    <string name="setting">Setting</string>
+
+    <string name="google_api_key">AIzaSyD9EagKsWiKToCHCpLGsoEUJ1zEPDEp3Fs</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

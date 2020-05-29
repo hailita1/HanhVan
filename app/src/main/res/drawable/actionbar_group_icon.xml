@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/ic_tab_group"
+        android:gravity="center" />
+
+    <item
+        android:id="@+id/ic_group_count"
+        android:drawable="@drawable/icon_cinema" />
+
+</layer-list>
